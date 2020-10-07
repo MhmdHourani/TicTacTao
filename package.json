@@ -1,0 +1,14 @@
+{
+	"name": "tic_tac_toa",
+	"version": "1.0.1",
+	"description": "This is the Tic Tac Toa by hooks",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Mohammed AlHourani",
+	"license": "ISC",
+	"dependencies": {
+		"react": "^16.13.1"
+	}
+}
